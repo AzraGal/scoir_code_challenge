@@ -19,7 +19,7 @@ Robert,Griesemer,19640609
 Clone this repository and run it in any text-editor that can run Python. Answer the prompts in the command-line in order to test the functionality of the program. If you would like to test a different CSV file than the one provided, please put it in the 'records' folder. 
 
 ## Assumptions 
-1. The file provided will always be a CSV file
+1. The file provided will always be a CSV file provided by the user
 2. CSV file to read exists within a folder the program can easily access- in this case, records folder 
 3. CSV file will always contain a header column 
 4. CSV file will not contain any empty columns
